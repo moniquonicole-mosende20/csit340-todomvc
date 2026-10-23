@@ -7,5 +7,5 @@ function Info({ name }) {
     </footer>
   )
 }
- 
+
 export default Info
